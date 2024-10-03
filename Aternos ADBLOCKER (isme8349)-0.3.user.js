@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Aternos ADBLOCKER (isme8349)
 // @namespace    https://aternos.org/*
-// @version      0.3
+// @version      0.4
 // @description  Script to bypass adblock detection on Aternos with better functionality.
 // @author       isme8349
 // @include      https://aternos.org/*
 // @grant        none
+// @downloadURL  https://github.com/isme8349/aternos-ad-blocker/blob/main/Aternos%20ADBLOCKER%20(isme8349)-0.3.user.js
+// @updateURL  https://github.com/isme8349/aternos-ad-blocker/blob/main/Aternos%20ADBLOCKER%20(isme8349)-0.3.user.js
 // ==/UserScript==
 
 (function() {
